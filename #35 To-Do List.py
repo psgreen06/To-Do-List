@@ -1,5 +1,7 @@
 #35 To-Do List
 #Pharah G.
+#August H.
+#Credit: W3 Schools Python Lists Resource
 grocerylist = ["Celery", "Beef", "Cumin", "Apples", "Soda", "Ice Cream", "Candy", "Canned Corn"]
 
 #Functions 
